@@ -1,2 +1,2 @@
-# bh-slides2018
-All the slides for Black Hack for 2018-2019
+# Black Hack Slides 2018-2019
+These are all the slides for the workshops for this year.
